@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Eros CR</h1>
-<h3 align="center">Computer Engineering student at Simon Bolivar University, with special emphasis on artificial intelligence, artificial neural networks, distributed programming, green computing and every new challenge</h3>
+<h3 align="center">Computer Engineering student at Simon Bolivar University, with special emphasis on artificial intelligence, artificial neural networks, distributed programming, green computing and every new challenging computing area</h3>
 
 - 🔭 I’m currently working on **Monitoring Software for energy consumption optimization**
 
